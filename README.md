@@ -40,4 +40,4 @@ In no particular order:
 
 License
 ---
-GNU General Public License V3
+Brainofarsh.com
